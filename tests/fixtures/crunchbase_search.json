@@ -1,0 +1,403 @@
+{
+  "count": 9001,
+  "entities": [
+    {
+      "facet_ids": [
+        "contact",
+        "siftery",
+        "ipqwery",
+        "privco",
+        "apptopia",
+        "semrush",
+        "company",
+        "rank",
+        "builtwith",
+        "bombora",
+        "key_event"
+      ],
+      "identifier": {
+        "uuid": "9ea16365-ccb9-7916-a977-c1638385d3a3",
+        "value": "Stream",
+        "image_id": "v1502291302/owrqz1ikabuc8laaix4d.png",
+        "permalink": "getstream-io",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream builds chat and feeds for applications at scale in a fraction of the time and cost of developing in-house."
+    },
+    {
+      "facet_ids": [
+        "contact",
+        "siftery",
+        "ipqwery",
+        "apptopia",
+        "company",
+        "rank",
+        "builtwith"
+      ],
+      "identifier": {
+        "uuid": "4403f7b2-11b2-c4dc-4f1c-0f0b1aa59bd2",
+        "value": "Stream",
+        "image_id": "zbh3bhlnwu24kzltmdbj",
+        "permalink": "infinitetakes",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream is a company behind Stream, a live first OVP that powers video for publishers, professional sports, and top brands."
+    },
+    {
+      "facet_ids": ["apptopia", "semrush", "company", "rank", "builtwith"],
+      "identifier": {
+        "uuid": "40de4815-72eb-c011-1d75-d482f5260f87",
+        "value": "Stream",
+        "image_id": "v1399881126/ow35aqvmzqu5fyqvqnxe.png",
+        "permalink": "stream",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream.ru is a paid video content portal formerly known as Omlet.ru."
+    },
+    {
+      "facet_ids": ["rank", "builtwith", "company", "aberdeen"],
+      "identifier": {
+        "uuid": "12dff854-371c-4e20-a0f3-06c808d08a83",
+        "value": "Stream",
+        "image_id": "z3pkcitbbgoebu8svumy",
+        "permalink": "stream-8a83",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream is a multi-service modern loss adjusting and claims management business."
+    },
+    {
+      "facet_ids": ["contact", "company", "rank", "builtwith", "bombora"],
+      "identifier": {
+        "uuid": "dcd297d5-6e51-4a7a-ac5b-f293f7c64122",
+        "value": "Stream",
+        "image_id": "98b8ac6dd54d0be26cc9",
+        "permalink": "stream-4122",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream is a marketing and creative agency."
+    },
+    {
+      "facet_ids": [
+        "contact",
+        "ipqwery",
+        "semrush",
+        "company",
+        "rank",
+        "bombora"
+      ],
+      "identifier": {
+        "uuid": "9290f4f4-1283-454f-9727-0e9fbb2dc06b",
+        "value": "Stream",
+        "image_id": "amfqd1knrvzqnv6vo1ir",
+        "permalink": "stream-c06b",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream manufacturers oil separators, solids interceptors, and chemical waste tanks."
+    },
+    {
+      "facet_ids": ["rank", "contact", "builtwith", "company"],
+      "identifier": {
+        "uuid": "53ca03ea-be4d-4624-b11d-8191db812d28",
+        "value": "Stream Club",
+        "image_id": "wtlfqny1nvxj1naqi5k6",
+        "permalink": "streamdotclub",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream Club is the easiest way to design, produce, and broadcast a beautiful live stream straight from your browser."
+    },
+    {
+      "facet_ids": ["contact", "company", "rank", "builtwith", "bombora"],
+      "identifier": {
+        "uuid": "c016db21-6040-4138-ba77-0e55bc20438c",
+        "value": "Stream",
+        "image_id": "h5hlfzbdkldqbfxgxkng",
+        "permalink": "stream-438c",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream BV develops cloud-based, process-oriented business applications and provides support services."
+    },
+    {
+      "facet_ids": ["company", "builtwith", "rank", "aberdeen"],
+      "identifier": {
+        "uuid": "4f5b6c03-1b59-4371-9df6-6a5c44bb903d",
+        "value": "strEAM+",
+        "image_id": "xy95ijmkzlwkkgg0mkp2",
+        "permalink": "stream-903d",
+        "entity_def_id": "organization"
+      },
+      "short_description": "strEAM+ Delivering market leading APM solutions to global customers requires a dedicated and flexible organisation."
+    },
+    {
+      "facet_ids": ["rank", "builtwith", "company", "siftery"],
+      "identifier": {
+        "uuid": "d9d35257-5895-95d5-9de1-eb7601e40a72",
+        "value": "Stream",
+        "image_id": "v1416429626/vt8tzbkmiqcdr9kdx4hf.png",
+        "permalink": "stream-3",
+        "entity_def_id": "organization"
+      },
+      "short_description": "A social network just for content."
+    },
+    {
+      "facet_ids": [
+        "contact",
+        "semrush",
+        "company",
+        "rank",
+        "builtwith",
+        "ai_insight"
+      ],
+      "identifier": {
+        "uuid": "0aac1ba8-04a0-4b80-b375-87c00eecdb97",
+        "value": "Stream",
+        "image_id": "fiqwtraksemyjzvxynoe",
+        "permalink": "streamft",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream is a fintech company that provides the central communication and automation layer for an organization\u2019s financial tech stack."
+    },
+    {
+      "facet_ids": ["company", "rank", "builtwith"],
+      "identifier": {
+        "uuid": "22290f71-a4c5-4c6f-b0cd-ff21dad58ef6",
+        "value": "Stream",
+        "image_id": "ejonxkgvtsshfel9oxjb",
+        "permalink": "stream-8ef6",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream is a manufacturing company that produces bathtubs, bathroom cabinets, shower cabins, screens, and panel products."
+    },
+    {
+      "facet_ids": ["company", "rank"],
+      "identifier": {
+        "uuid": "a23ebabc-760d-4ccc-8b25-003ad6647d61",
+        "value": "Stream",
+        "image_id": "bqxorrd43mm3msr3swdm",
+        "permalink": "stream-7d61",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream is a digital transformation company that provides modelling, simulation, and software services."
+    },
+    {
+      "facet_ids": ["company", "rank", "builtwith"],
+      "identifier": {
+        "uuid": "44c26531-4b45-40d8-bf05-7447885fc861",
+        "value": "Stream",
+        "image_id": "ml3chxquahyhfsk33sq1",
+        "permalink": "stream-c861",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream provides design, installation, construction, maintenance, integration, and commissioning services for HVAC systems."
+    },
+    {
+      "facet_ids": ["company", "rank", "builtwith", "contact"],
+      "identifier": {
+        "uuid": "36789c76-7826-4e8f-aa75-09aadd0814ad",
+        "value": "Stream",
+        "image_id": "aivixuum31nomdaisdyg",
+        "permalink": "stream-14ad",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream is an order and menu management solution made simple for restaurants, POS brands, and delivery providers."
+    },
+    {
+      "facet_ids": ["company", "rank", "aberdeen"],
+      "identifier": {
+        "uuid": "a61c1f44-2d72-be25-9fed-e5316377f4ef",
+        "value": "Stream",
+        "permalink": "stream-4",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream"
+    },
+    {
+      "facet_ids": [
+        "contact",
+        "siftery",
+        "investor",
+        "ipqwery",
+        "aberdeen",
+        "semrush",
+        "company",
+        "rank",
+        "builtwith",
+        "bombora",
+        "key_event"
+      ],
+      "identifier": {
+        "uuid": "fa64a04e-e373-8bbb-d2aa-2832426ed3cb",
+        "value": "Stream Realty Partners",
+        "image_id": "xoaxleabrlghtergbh0k",
+        "permalink": "stream-realty-partners",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream Realty Partners (Stream Realty) is a national real estate services, development and investment firm."
+    },
+    {
+      "facet_ids": [
+        "contact",
+        "siftery",
+        "aberdeen",
+        "apptopia",
+        "semrush",
+        "company",
+        "rank",
+        "bombora"
+      ],
+      "identifier": {
+        "uuid": "83e7ff99-fc1d-4d1b-9302-328b87d772b9",
+        "value": "Stream (Stream Energy)",
+        "image_id": "ffniq7iruf9dj9ia8ez1",
+        "permalink": "stream-energy",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream (Stream Energy) is a leading retail energy company in deregulated markets across the United States."
+    },
+    {
+      "facet_ids": [
+        "contact",
+        "siftery",
+        "ipqwery",
+        "apptopia",
+        "semrush",
+        "company",
+        "rank",
+        "builtwith",
+        "bombora",
+        "ai_insight",
+        "key_event"
+      ],
+      "identifier": {
+        "uuid": "a55a3270-2dad-e483-898c-8d5f7eca39bb",
+        "value": "Stream Companies",
+        "image_id": "v1468929665/jt6drazpln1evynjckx2.png",
+        "permalink": "stream-companies",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream Companies is an advertising agency that offers digital advertising, inbound marketing, and email marketing services."
+    },
+    {
+      "facet_ids": [
+        "contact",
+        "siftery",
+        "ipqwery",
+        "aberdeen",
+        "semrush",
+        "company",
+        "rank",
+        "builtwith",
+        "bombora",
+        "ai_insight",
+        "key_event"
+      ],
+      "identifier": {
+        "uuid": "e0d74a70-9383-6388-3bb5-1ac13327cfbf",
+        "value": "StreamSets",
+        "image_id": "cpgiukblbgnd0qxebw3p",
+        "permalink": "streamsets",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Streamsets is a DataOps platform for modern data integration."
+    },
+    {
+      "facet_ids": [
+        "contact",
+        "siftery",
+        "ipqwery",
+        "apptopia",
+        "semrush",
+        "company",
+        "rank",
+        "builtwith",
+        "bombora"
+      ],
+      "identifier": {
+        "uuid": "d5600b28-9df3-4f13-b650-9a08006a4d1c",
+        "value": "Stream Flo Industries",
+        "image_id": "in5pgs6p9vrmvgwxyjze",
+        "permalink": "stream-flo-industries",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Stream Flo Industries is an energy company located in Edmonton."
+    },
+    {
+      "facet_ids": [
+        "contact",
+        "siftery",
+        "ipqwery",
+        "aberdeen",
+        "semrush",
+        "company",
+        "rank",
+        "builtwith",
+        "bombora",
+        "ai_insight"
+      ],
+      "identifier": {
+        "uuid": "3cd380d8-49d9-4ad4-83e8-67610e6e1cca",
+        "value": "Streamlight, Inc.",
+        "image_id": "v1509748126/q13843tcdog37mgh7bti.jpg",
+        "permalink": "streamlight-inc",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Streamlight is an electronic manufacturing company that manufactures weapon mount flashlights."
+    },
+    {
+      "facet_ids": [
+        "siftery",
+        "semrush",
+        "company",
+        "rank",
+        "builtwith",
+        "bombora"
+      ],
+      "identifier": {
+        "uuid": "25ee04a3-a9bf-6f9e-83d3-29ee3fde06d8",
+        "value": "StreamTheWorld",
+        "image_id": "v1397208331/f1329584d9cfb0a22e27bf3773cf17c1.jpg",
+        "permalink": "streamtheworld",
+        "entity_def_id": "organization"
+      },
+      "short_description": "StreamTheWorld is a streaming technology and services company allowing radio and TV broadcasters to generate online revenue."
+    },
+    {
+      "facet_ids": [
+        "contact",
+        "apptopia",
+        "semrush",
+        "company",
+        "rank",
+        "builtwith",
+        "bombora",
+        "key_event"
+      ],
+      "identifier": {
+        "uuid": "463d4d14-e85e-5ec9-7290-5d6600794452",
+        "value": "StreamElements",
+        "image_id": "vyxdqyx94p6pw2bv46c2",
+        "permalink": "stream-elements",
+        "entity_def_id": "organization"
+      },
+      "short_description": "StreamElements provides content creators the tools they need to engage, grow, and monetize their audiences."
+    },
+    {
+      "facet_ids": [
+        "contact",
+        "investor",
+        "semrush",
+        "company",
+        "rank",
+        "builtwith",
+        "bombora"
+      ],
+      "identifier": {
+        "uuid": "a42bff09-2bf2-545f-fe94-8123bfd6b2ba",
+        "value": "Streamlined Ventures",
+        "image_id": "jfjufj8jfbldrxx3wik0",
+        "permalink": "streamlined-ventures",
+        "entity_def_id": "organization"
+      },
+      "short_description": "Streamlined Ventures is a seed-stage investment firm focusing on Data Science, APIs, Blockchain/Web3, AI, and Software Automation."
+    }
+  ]
+}

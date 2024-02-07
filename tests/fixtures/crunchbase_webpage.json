@@ -1,0 +1,230 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "WebPage",
+  "mainEntity": {
+    "@type": "Corporation",
+    "name": "Stream",
+    "legalName": "Stream",
+    "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1502291302/owrqz1ikabuc8laaix4d.png",
+    "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1502291302/owrqz1ikabuc8laaix4d.png",
+    "url": "https://www.crunchbase.com/organization/getstream-io",
+    "description": "<p>Stream builds chat and feeds for applications at scale in a fraction of the time and cost of developing in-house.</p>",
+    "sameAs": [
+      "https://www.facebook.com/getstream.io?fref=ts",
+      "http://www.linkedin.com/company/getstream-io",
+      "http://twitter.com/getstream_io",
+      "https://getstream.io/"
+    ],
+    "alternateName": ["Stream.io Inc, getstream.io"],
+    "foundingDate": "2014-08-01",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Boulder",
+      "addressRegion": "Colorado",
+      "addressCountry": "United States"
+    },
+    "founder": [
+      {
+        "@type": "Person",
+        "name": "Thierry Schellenbach",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1410462292/i78zupditmzvtov716yl.jpg",
+        "url": "https://www.crunchbase.com/person/thierry-schellenbach"
+      },
+      {
+        "@type": "Person",
+        "name": "Tommaso Barbugli",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1410462116/hwkl6h1ujuoappuhm3qh.jpg",
+        "url": "https://www.crunchbase.com/person/tommaso-barbugli"
+      }
+    ],
+    "employee": [
+      {
+        "@type": "Person",
+        "name": "Thierry Schellenbach",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1410462292/i78zupditmzvtov716yl.jpg",
+        "url": "https://www.crunchbase.com/person/thierry-schellenbach",
+        "jobTitle": "Co-Founder and CEO"
+      },
+      {
+        "@type": "Person",
+        "name": "Tommaso Barbugli",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1410462116/hwkl6h1ujuoappuhm3qh.jpg",
+        "url": "https://www.crunchbase.com/person/tommaso-barbugli",
+        "jobTitle": "Co-Founder and CTO"
+      },
+      {
+        "@type": "Person",
+        "name": "Stephen Hodgetts",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/t98wzqc3ionhmlwfehva",
+        "url": "https://www.crunchbase.com/person/stephen-hodgetts",
+        "jobTitle": "VP of Customer Success"
+      },
+      {
+        "@type": "Person",
+        "name": "Craig Fifield",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1464276482/lwks0pe9tskqywar1q64.jpg",
+        "url": "https://www.crunchbase.com/person/craig-fifield",
+        "jobTitle": "Senior Director of Technical SEO"
+      },
+      {
+        "@type": "Person",
+        "name": "Lou Salfi",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1403018871/s0mch0kxi95qgbluyoxi.jpg",
+        "url": "https://www.crunchbase.com/person/lou-salfi",
+        "jobTitle": "Chief Revenue Officer"
+      },
+      {
+        "@type": "Person",
+        "name": "Anastasia Geller",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/uzfntwhdyyfbzazntwda",
+        "url": "https://www.crunchbase.com/person/anastasia-geller-5a9e",
+        "jobTitle": "Global Recruitment Manager"
+      },
+      {
+        "@type": "Person",
+        "name": "Jeff Richards",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/r4kmdddjaguags7snxjw",
+        "url": "https://www.crunchbase.com/person/jeff-richards",
+        "jobTitle": "Investor"
+      },
+      {
+        "@type": "Person",
+        "name": "Neevash Ramdial",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/oa3ppowym27y6b5ywuaw",
+        "url": "https://www.crunchbase.com/person/neevash-ramdial",
+        "jobTitle": "Director of Global Developer Relations"
+      }
+    ],
+    "member": [
+      {
+        "@type": "Person",
+        "name": "Wayne Chang",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1446192552/s6mam1rmcuupjp5guud0.png",
+        "url": "https://www.crunchbase.com/person/wayne-chang"
+      },
+      {
+        "@type": "Person",
+        "name": "Ryan Spraetz",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1397180884/74401ab6734413ceb8e6cbb1a452250d.jpg",
+        "url": "https://www.crunchbase.com/person/ryan-spraetz"
+      },
+      {
+        "@type": "Person",
+        "name": "Tiffany Luck",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/iepvl8o78yko876obxl0",
+        "url": "https://www.crunchbase.com/person/tiffany-luck"
+      },
+      {
+        "@type": "Person",
+        "name": "Olivier Pomel",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/bv6jypzr20e6rqzvylqz",
+        "url": "https://www.crunchbase.com/person/olivier-pomel"
+      },
+      {
+        "@type": "Person",
+        "name": "Dick Costolo",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1415766987/rhyaaeyvlzoleovsiv6l.png",
+        "url": "https://www.crunchbase.com/person/dick-costolo"
+      },
+      {
+        "@type": "Person",
+        "name": "Tom Preston-Werner",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1495339877/bemeiyxa1t3ukovn4flm.png",
+        "url": "https://www.crunchbase.com/person/tom-preston-werner"
+      },
+      {
+        "@type": "Person",
+        "name": "Jim Franklin",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1398505223/fnfr8dzaxjpwnezksl64.jpg",
+        "url": "https://www.crunchbase.com/person/jim-franklin"
+      },
+      {
+        "@type": "Person",
+        "name": "Nicolas Dessaigne",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/g4q5n4dyy2utjnzyn2y7",
+        "url": "https://www.crunchbase.com/person/nicolas-dessaigne"
+      }
+    ],
+    "funder": [
+      {
+        "@type": "Organization",
+        "name": "GGV Capital",
+        "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/nejv9zoynshdw8tmqmfy",
+        "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/nejv9zoynshdw8tmqmfy",
+        "url": "https://www.crunchbase.com/organization/ggv-capital"
+      },
+      {
+        "@type": "Person",
+        "name": "Tom Preston-Werner",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1495339877/bemeiyxa1t3ukovn4flm.png",
+        "url": "https://www.crunchbase.com/person/tom-preston-werner"
+      },
+      {
+        "@type": "Person",
+        "name": "Johnny Boufarhat",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/g0q9hixr0cgso1qfk0yn",
+        "url": "https://www.crunchbase.com/person/johnny-boufarhat"
+      },
+      {
+        "@type": "Organization",
+        "name": "Knight Capital",
+        "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/e1o2tzzb0gm2owme4uiv",
+        "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/e1o2tzzb0gm2owme4uiv",
+        "url": "https://www.crunchbase.com/organization/knight-venture-capital"
+      },
+      {
+        "@type": "Person",
+        "name": "Selcuk Atli",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/v1443957652/gv3ow9ji6ubchbxz0fv8.png",
+        "url": "https://www.crunchbase.com/person/selcuk-atli"
+      },
+      {
+        "@type": "Organization",
+        "name": "01 Advisors",
+        "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/pkhnu1i2ge3bxok3htzy",
+        "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/pkhnu1i2ge3bxok3htzy",
+        "url": "https://www.crunchbase.com/organization/01-advisors-01"
+      },
+      {
+        "@type": "Person",
+        "name": "Olivier Pomel",
+        "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/bv6jypzr20e6rqzvylqz",
+        "url": "https://www.crunchbase.com/person/olivier-pomel"
+      },
+      {
+        "@type": "Organization",
+        "name": "Felicis",
+        "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/xopgjqvaqpada8zp498g",
+        "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/xopgjqvaqpada8zp498g",
+        "url": "https://www.crunchbase.com/organization/felicis-ventures"
+      },
+      {
+        "@type": "Organization",
+        "name": "01 Advisors",
+        "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/pkhnu1i2ge3bxok3htzy",
+        "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/pkhnu1i2ge3bxok3htzy",
+        "url": "https://www.crunchbase.com/organization/01-advisors-01"
+      },
+      {
+        "@type": "Organization",
+        "name": "GGV Capital",
+        "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/nejv9zoynshdw8tmqmfy",
+        "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/nejv9zoynshdw8tmqmfy",
+        "url": "https://www.crunchbase.com/organization/ggv-capital"
+      }
+    ]
+  },
+  "isAccessibleForFree": "False",
+  "hasPart": [
+    {
+      "@type": "WebPageElement",
+      "isAccessibleForFree": "False",
+      "cssSelector": ".metered-content"
+    },
+    {
+      "@type": "WebPageElement",
+      "isAccessibleForFree": "False",
+      "cssSelector": ".obfuscated"
+    }
+  ]
+}

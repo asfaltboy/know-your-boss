@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "know-your-boss"
+version = "0.1.0"
+description = "\\"
+authors = ["Pavel savchenko <asfaltboy@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "kyb"}]
+
+[tool.poe.tasks]
+test         = "pytest"
+lint = "ruff --autofix"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+curl-cffi = "^0.5.10"
+typer = {extras = ["all"], version = "^0.9.0"}
+peewee = "^3.17.1"
+parsel = "^1.8.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+ruff = "^0.2.1"
+poethepoet = "^0.24.4"
+pytest-mock = "^3.12.0"
+
+[tool.poetry.scripts]
+kyb = "kyb:app"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
