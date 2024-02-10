@@ -1,3 +1,4 @@
+from urllib.parse import urlencode
 from datetime import date
 from pathlib import Path
 from dataclasses import dataclass
@@ -83,12 +84,21 @@ def query_search_companies(term: str):
     # firstly check out cache
     if not TEMP_DIR.exists():
         TEMP_DIR.mkdir(exist_ok=True)
-    temp_file = TEMP_DIR / f"{term}.json"
+    filename = f"{term.replace(' ', '-')}.json"
+    temp_file = TEMP_DIR / filename
     if temp_file.exists():
         console.log(f"temp file restored from {temp_file}")
         return json.load(temp_file.open())
 
-    search_url = f"https://www.crunchbase.com/v4/data/autocompletes?query={term}&collection_ids=organizations&limit=25&source=topSearch"
+    search_query = urlencode(
+        {
+            "query": term,
+            "collection_ids": "organizations",
+            "limit": 25,
+            "source": "topSearch",
+        }
+    )
+    search_url = f"https://www.crunchbase.com/v4/data/autocompletes?{search_query}"
     console.log(f"obtaining search result from url {search_url}")
     response = requests.get(search_url, impersonate=IMPERSONATE, headers=HEADERS)
     search_results = response.json()
